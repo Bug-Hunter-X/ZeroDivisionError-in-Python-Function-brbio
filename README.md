@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: ZeroDivisionError. The `my_function` attempts to divide by zero when the input `x` is 0, causing the error. The solution handles this case by explicitly checking for and handling zero input.
